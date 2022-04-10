@@ -14,6 +14,8 @@ import java.util.Calendar;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+// Craig Burke S2024071
+
 // https://developer.android.com/guide/components/intents-filters
 // https://developer.android.com/reference/android/widget/Filterable
 public class ItemFilter extends RecyclerView.Adapter<ItemFilter.ViewHolder> implements Filterable
