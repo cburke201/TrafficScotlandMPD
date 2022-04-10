@@ -8,7 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+// Craig Burke S2024071
 
+// https://developer.android.com/guide/components/loaders
+// https://developer.android.com/guide/fragments
 public class Loader extends Fragment
 {
     public Loader()
