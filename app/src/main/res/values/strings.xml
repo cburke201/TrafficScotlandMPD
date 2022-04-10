@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://developer.android.com/guide/topics/resources/string-resource -->
+<resources>
+    <string name="app_name">Traffic Scotland MPD</string>
+    <string name="current_incidents">Current Incidents</string>
+    <string name="view">view</string>
+    <string name="current_roadworks">Current Roadworks</string>
+    <string name="planned_roadworks">Planned Roadworks</string>
+    <string name="loading">Loading…</string>
+    <string name="sample_card_comments">Sample Card Comments</string>
+    <string name="sample_card_author">Sample Card Author</string>
+    <string name="sample_card_link">Sample Card Link</string>
+    <string name="sample_card_description">Sample Card Description</string>
+    <string name="sample_card_title">Sample Card Title</string>
+    <string name="search">Search</string>
+    <string name="sample_publish_date">Sample Publish Date</string>
+    <string name="severityLevel">Severity Level</string>
+    <string name="published_label">Published on&#160;</string>
+    <string name="no_issues_here">No issues here</string>
+    <string name="date">Date</string>
+</resources>

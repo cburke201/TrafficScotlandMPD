@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://developer.android.com/reference/kotlin/androidx/compose/material/Colors -->
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorMinor">#4CAF50</color>
+    <color name="colorMajor">#FFC107</color>
+    <color name="colorCritical">#F44336</color>
+</resources>

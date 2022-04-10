@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorCritical">#F44336</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorMajor">#FFC107</color>
+    <color name="colorMinor">#4CAF50</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <string name="app_name">Traffic Scotland MPD</string>
+    <string name="current_incidents">Current Incidents</string>
+    <string name="current_roadworks">Current Roadworks</string>
+    <string name="date">Date</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA2vbnrwBQWxCM1RYj8Y-FXY-EAHID5pPQ</string>
+    <string name="loading">Loading…</string>
+    <string name="no_issues_here">No issues here</string>
+    <string name="planned_roadworks">Planned Roadworks</string>
+    <string name="published_label">Published on </string>
+    <string name="sample_card_author">Sample Card Author</string>
+    <string name="sample_card_comments">Sample Card Comments</string>
+    <string name="sample_card_description">Sample Card Description</string>
+    <string name="sample_card_link">Sample Card Link</string>
+    <string name="sample_card_title">Sample Card Title</string>
+    <string name="sample_publish_date">Sample Publish Date</string>
+    <string name="search">Search</string>
+    <string name="severityLevel">Severity Level</string>
+    <string name="view">view</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
