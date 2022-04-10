@@ -3,6 +3,8 @@ package org.me.gcu.trafficscotlandmpd;
 import java.io.Serializable;
 import java.util.Calendar;
 
+// Craig Burke S2024071
+
 // https://developer.android.com/reference/java/io/Serializable
 public class Item implements Serializable
 {
