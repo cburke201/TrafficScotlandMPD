@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
 
+// Craig Burke S2024071
 
 public class XMLPullParser
 {
