@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+// Craig Burke S2024071
+
 public class ItemDetails extends Fragment
 {
 
